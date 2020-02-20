@@ -22,4 +22,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+We expect participants to follow these rules at all event venues and event-related social events.
