@@ -12,7 +12,7 @@ Our events are dedicated to providing a harassment-free experience for everyone,
 ## The Less Quick Version
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing behavior by anyone, not just the event organizers, are expected to comply immediately.
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. If there are booths at an event, booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
