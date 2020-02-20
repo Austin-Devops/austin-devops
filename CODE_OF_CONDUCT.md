@@ -23,3 +23,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
 We expect participants to follow these rules at all event venues and event-related social events.
+
+# Related CoC
+
+Hangops Slack also has its own CoC. We expect all participants to follow that CoC in hangops Slack, as noted here: https://github.com/hangops/code-of-conduct
