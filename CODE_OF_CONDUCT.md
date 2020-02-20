@@ -3,7 +3,7 @@
 _Modified from https://confcodeofconduct.com/_
 All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-# Need Help?
+## Need Help?
 You have our contact details in the emails we've sent. You can also reach out to us on hangops Slack, or approach any of us in person. We pledge to take any concerns seriously and follow up completely.
 
 # The Quick Version
