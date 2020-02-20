@@ -10,7 +10,7 @@ No, we don't accept vendor pitches. If we accept a talk and it turns into a vend
 
 ## What is a vendor pitch?
 
-A vendor pitch is a talk that's focused on a specific product, specifically one that you work on or work for the parent company, as if you are invested in the product's success. Examples include how to solve a problem with X product (where you happen to work), how X product makes lives better, 
+A vendor pitch is a talk that's focused on a specific product, specifically one that you work on or work for the parent company, as if you are invested in the product's success. Examples include how to solve a problem with X product (where you happen to work), how X product makes lives better, etc.
 
 Ways to talk about a product without sounding like a vendor pitch include talking about the concepts behind the product (e.g., talking about Ci/CD pipelines if you work at CloudBees on Jenkins), talking about a known problem and reviewing the solutions, including your product, in an unbiased way, or even talking about how your company solved a common problem (or an uncommon one) *without* expressly calling out your product. Trust us: If people are looking for a solution like yours and they hear about the company in general, they will go look your product up. No need to hit them over the head with an obvious reference.
 
