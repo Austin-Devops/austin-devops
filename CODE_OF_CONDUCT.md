@@ -1,7 +1,7 @@
 # Event Code of Conduct
 
 _Modified from https://confcodeofconduct.com/_
-All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 # Need Help?
 You have our contact details in the emails we've sent.
