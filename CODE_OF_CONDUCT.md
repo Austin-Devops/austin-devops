@@ -4,7 +4,7 @@ _Modified from https://confcodeofconduct.com/_
 All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 # Need Help?
-You have our contact details in the emails we've sent.
+You have our contact details in the emails we've sent. You can also reach out to us on hangops Slack, or approach any of us in person. We pledge to take any concerns seriously and follow up completely.
 
 # The Quick Version
 Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
