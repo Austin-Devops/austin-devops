@@ -18,7 +18,7 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event and future events with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You may directly address the situation, as well, if you feel comfortable doing so, but event staff are here to address any and all situations falling under this code of conduct. Event staff can be identified as they'll be wearing branded clothing, badges, or otherwise will identify themselves clearly at smaller events.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
