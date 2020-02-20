@@ -16,7 +16,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. If there are booths at an event, booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event and future events with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.
 
