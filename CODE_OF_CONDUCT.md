@@ -1,6 +1,7 @@
 # Meetup Code of Conduct
 
 _Adapted from https://confcodeofconduct.com/_
+
 All participants in our meetup events regardless of involvement are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for every individual.
 
 ## Need Help?
